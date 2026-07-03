@@ -1,0 +1,8 @@
+__pycache
+*.pyc
+*.pyo   
+*.pyd
+__pycache__/
+# Ignore test files
+tests/test_calculator.py    
+.lintcache
